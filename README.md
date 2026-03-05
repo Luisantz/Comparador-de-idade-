@@ -7,7 +7,7 @@ Este projeto é um programa simples em Java que solicita ao usuário o nome e a 
 - Solicita o nome e a idade da segunda pessoa.
 - Calcula e exibe a diferença de idade entre as duas pessoas.
 
-## 🖥️ Exemplo de us
+## 🖥️ Exemplo de uso
 
 Digite aqui o nome da primeira pessoa:
 Ana
